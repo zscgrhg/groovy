@@ -1,4 +1,4 @@
-package com.example
+package com.example.ft
 
 import geb.Browser
 import geb.spock.GebReportingSpec
