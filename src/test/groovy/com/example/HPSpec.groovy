@@ -14,6 +14,8 @@ class HPSpec extends GebReportingSpec {
             report "login screen1"
         }
         then: "First page should load"
+        report "login screen3"
+        report "login screen4"
         title == "百度一下，你就知道"
     }
 }
